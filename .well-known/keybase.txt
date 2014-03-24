@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/encero
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://matousmichalik.com
+  * I am encero (https://keybase.io/encero) on keybase.
+  * I have a public key ASDw4Qg8VOkdXR1uXv37EKEaL0sOkjz4_kLZjKAF4aRHVQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017d193c12c35cbd107575d2e368532bdbd6410a69bb1ff0ea8b22e3e5458670390a",
+            "host": "keybase.io",
+            "kid": "0120f0e1083c54e91d5d1d6e5efdfb10a11a2f4b0e923cf8fe42d98ca005e1a447550a",
+            "uid": "3f39386518cb7806eba3c863ef8fb619",
+            "username": "encero"
+        },
+        "service": {
+            "hostname": "matousmichalik.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1482248351,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1482248319,
+        "hash": "5dffb255f08c79a7f9890bad285b6962bf43ce25e0cb83b03f2be277c50b9f58dfa390002849b50023939a1208ad7be93868b6260b2b8c1b9ea8a9aca1950aed",
+        "seqno": 769020
+    },
+    "prev": "4c30097e3255e8509eeb5a3746151af42eb8d3e857926376b4d20d5d359a5280",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8OEIPFTpHV0dbl79+xChGi9LDpI8+P5C2YygBeGkR1UKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxN2QxOTNjMTJjMzVjYmQxMDc1NzVkMmUzNjg1MzJiZGJkNjQxMGE2OWJiMWZmMGVhOGIyMmUzZTU0NTg2NzAzOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjBlMTA4M2M1NGU5MWQ1ZDFkNmU1ZWZkZmIxMGExMWEyZjRiMGU5MjNjZjhmZTQyZDk4Y2EwMDVlMWE0NDc1NTBhIiwidWlkIjoiM2YzOTM4NjUxOGNiNzgwNmViYTNjODYzZWY4ZmI2MTkiLCJ1c2VybmFtZSI6ImVuY2VybyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWF0b3VzbWljaGFsaWsuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODIyNDgzNTEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4MjI0ODMxOSwiaGFzaCI6IjVkZmZiMjU1ZjA4Yzc5YTdmOTg5MGJhZDI4NWI2OTYyYmY0M2NlMjVlMGNiODNiMDNmMmJlMjc3YzUwYjlmNThkZmEzOTAwMDI4NDliNTAwMjM5MzlhMTIwOGFkN2JlOTM4NjhiNjI2MGIyYjhjMWI5ZWE4YTlhY2ExOTUwYWVkIiwic2Vxbm8iOjc2OTAyMH0sInByZXYiOiI0YzMwMDk3ZTMyNTVlODUwOWVlYjVhMzc0NjE1MWFmNDJlYjhkM2U4NTc5MjYzNzZiNGQyMGQ1ZDM1OWE1MjgwIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAbQh2EH6h/vu6S3jsvf4pi5qV+zygK6EhT0Gw0axFRxOsSUtcMxfr1w6mnnoG253WN1o7rPCa66jHTRIOk1PPCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAb5BwAyamhlSU6S8xPOZUnZ+aSfJoBVSB7wGu2OHlCSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/encero
+
+==================================================================

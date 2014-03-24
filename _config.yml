@@ -1,0 +1,43 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+    extensions: [with_toc_data, no_intra_emphasis]
+
+highlighter:      rouge
+
+lsi:              true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Matoušův zápisník
+tagline:          'o všem možném'
+description:      'Zápisky o programování a o tom ostatním.'
+url:              https://matousmichalik.com
+
+GA:               UA-34538626-1
+
+disqus:           matousuvzapisnik
+
+excerpt_separator: '\n\n'
+
+encoding:         utf-8
+
+author:
+  name:           'Matouš Michalík'
+  email:          blog@matousmichalik.com
+  fb:             https://www.facebook.com/iMatrosh
+  linkedin:       https://cz.linkedin.com/in/matousmichalik
+  fbid:           1454569676
+
+paginate:         5
+paginate_path:    "/blog/:num/"
+
+gems: [jekyll-paginate]
+
+include: ['.well-known']
+
+# Custom vars
+
+separator:        '<!-- more -->'

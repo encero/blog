@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+          {% comment %}<a href="{{ site.author.linkedin }}" target="_blank" class="linkedin"><img src="/public/img/In.png"></a>{% endcomment %}
+        </div>
+      </div>
+
+      <div class="container content">
+        {{ content }}
+      </div>
+      <div class="container footer">
+        <hr>
+        <a href="{{ site.url }}/">o mě</a> | <a href="{{ site.url }}/reference">reference</a>
+        <p>&copy; {{ site.author.name }} {{ site.time | date: '%Y' }} &lt;{{site.author.email}}&gt;</p>
+        <p><a target="_blank" href="http://lanyon.getpoole.com/">Lanyon Poole theme</a> <a target="_blank" href="http://jekyllrb.com/">powered by Jekyll</a></p>
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  <!-- Javascript -->
+  <script type="text/javascript" src="/public/js/out-bound-tracking.js" defer></script>
+
+  <script type="text/javascript" src="/public/js/toggle.js" async></script>
+  <script type="text/javascript" src="/public/js/shuffle.js" async></script>
+
+  <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+  <script type="text/javascript">
+      window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"light-bottom"};
+  </script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" async></script>
+  </body>
+</html>

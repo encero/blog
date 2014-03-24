@@ -1,0 +1,9 @@
+_site
+.DS_Store
+
+start
+
+.jekyll-metadata
+
+*.sublime-project
+*.sublime-workspace
