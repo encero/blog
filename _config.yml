@@ -1,8 +1,4 @@
 # Dependencies
-markdown:         redcarpet
-redcarpet:
-    extensions: [with_toc_data, no_intra_emphasis]
-
 highlighter:      rouge
 
 lsi:              true
