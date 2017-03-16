@@ -15,7 +15,7 @@ hidetitle: Yes
  </small>
 </h1>
 <p class="lead">
-	Jsem FullStack web developer s bohatými zkušenostmi z agenturní práce na Facebookových microsite.
+	Jsem web developer s bohatými zkušenostmi z agenturní práce na Facebookových microsites.
 </p>
 
 <p class="badges shuffle">
@@ -46,7 +46,7 @@ hidetitle: Yes
 
 ### Kdo jsem
 
-PHP [Nette][nette] (full stack) vývojář s bohatými zkušenostmi z agenturní práce (viz [reference](/reference)) pro společnost [Brandz Friendz][bf]. Drtivou většinu času se zabývám backendovým PHP kodém a oživovaním frontedu. Včetně nutných serverových utilit u složitějších projektů, kde se většinou držím PHP kódu ale už jsem si napsal i svůj díl shellových scriptů.
+PHP [Nette][nette] a javascript vývojář s bohatými zkušenostmi z agenturní práce (viz [reference](/reference)) pro společnost [Brandz Friendz][bf]. Drtivou většinu času se zabývám backendovým PHP kodém a oživovaním frontedu. Včetně nutných serverových utilit u složitějších projektů, kde se většinou držím PHP kódu ale už jsem si napsal i svůj díl shellových scriptů.
 
 Navíc na mě v poslední době spadla i "správa" našich produkčních a vývojových serverů. Dostanu se k nějaké té konfiguraci služeb v debianu nebo k údržbě deployment scriptů. 
 
@@ -65,8 +65,11 @@ V polovině roku 2013 se mi zdálo že je čas se posunout dál a kývnul jsem n
 
 Od konce roku 2013 se tedy v práci většinově věnuju PHP a [Nette Frameworku][nette]. Náplň je více méně podobná, jen ubylo soutěží a přibylo obsahových webů a microsites a přestal jsem kódovat šablony. Navíc se rozšířil toolset o Elastic Search server, RabbitMQ, a hromadu iterních toolů.
 
+Na začátku roku 2017 jsem opustil agenturní klienty a šel si vyzkoušet práci na velkém projektu do [rohlik.cz][rohlik].
+
 [nette]: http://nette.org
 [bf]: http://www.brandzfriendz.cz
+[rohlik]: https://rohlik.cz
 
 [sso]: https://en.wikipedia.org/wiki/Single_sign-on
 
