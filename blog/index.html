@@ -12,7 +12,7 @@ hidetitle: Yes
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | localize: ":custom" }}</span>
+    <span class="post-date">{{ post.date | date: "%e. %-m. %Y" }}</span>
 
     {{ post.content | split: site.separator | first }}
 
