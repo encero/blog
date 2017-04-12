@@ -11,3 +11,4 @@ order: 5
 ### OSX
 
 `ncdu`: pocitadlo velikosti slozek
+`tig`: konzolova utilita pro praci s gitem
