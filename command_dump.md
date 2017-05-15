@@ -13,3 +13,5 @@ order: 5
 `ncdu`: pocitadlo velikosti slozek
 
 `tig`: konzolova utilita pro praci s gitem
+
+`devd`: sikovny vyvojovy server s live reloadem
