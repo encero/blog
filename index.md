@@ -15,47 +15,40 @@ hidetitle: Yes
  </small>
 </h1>
 <p class="lead">
-	Jsem web developer s bohatými zkušenostmi z agenturní práce na Facebookových microsites.
+	Jsem webový vývojář s bohatými zkušenostmi z projektu Rohlik.cz a z agenturní práce na Facebookových microsites.
 </p>
 
 <p class="badges shuffle">
-	<span class="endorse">Swift</span>
-	<span class="endorse">iOS</span>
-	<span class="endorse">PHP 5.4</span>
+	<span class="endorse">PHP 7.2</span>
 	<span class="endorse">Nette</span>
-	<span class="endorse">JavaScript</span>
-	<span class="endorse">node.js</span>
-	<span class="endorse">React.js</span>
-	<span>Elastic</span>
-	<span>HTML</span>
+	<span class="endorse">MySQL</span>
+	<span class="endorse">Elastic Search</span>
+	<span class="endorse">Spring Framework</span>
+	<span>iOS</span>
+	<span>Swift</span>
+	<span>JavaScript</span>
+	<span>node.js</span>
+	<span>React.js</span>
 	<span>Bash</span>
 	<span>Linux</span>
 	<span>Nginx</span>
 	<span>Redis</span>
-	<span>MySQL</span>
 	<span>Kdyby/*</span>
 	<span>jQuery</span>
 	<span>Rabbit MQ</span>
 	<span>New Relic</span>
-	<span>Webloader</span>
-	<span>Google Analytics</span>
 	<span>Gulp</span>
-	<span>npm</span>
+	<span>yarn</span>
 </p>
 
 
 ### Kdo jsem
 
-PHP [Nette][nette] a javascript vývojář s bohatými zkušenostmi z agenturní práce (viz [reference](/reference)) pro společnost [Brandz Friendz][bf]. Drtivou většinu času se zabývám backendovým PHP kodém a oživovaním frontedu. Včetně nutných serverových utilit u složitějších projektů, kde se většinou držím PHP kódu ale už jsem si napsal i svůj díl shellových scriptů.
+PHP [Nette][nette] a Java [Spring][spring] vývojář a team leader, v současné době na projektu [Rohlik.cz][rohlik].
 
-Navíc na mě v poslední době spadla i "správa" našich produkčních a vývojových serverů. Dostanu se k nějaké té konfiguraci služeb v debianu nebo k údržbě deployment scriptů. 
+Mám bohaté zkušenosti s vývojem malých až velkých projektů v PHP (viz [reference](/reference)). Tyto zkušenosti se snažím zůročit při přechodu na Javu a při mentorování kolegů v týmu.
 
-Na frontendu už dělám jen javascript nebo jednoduché úpravy v CSS. Z javascriptových buzz wordů jsem v produkci použil 3D/2D v canvasu, [React][react]/[Redux][redux] i [Angular][angular].
-
-Na službách třetích stran jsem si taky odpracoval taky svoje. Za zmínku stojí Facebook Insight a Marketing API, které jsem začal nenávidět při vývoji reportovacích a analytických nástrojů pro marketingový tým [BF][bf]. 
-Nebo třeba Slack API, na kterém jsme postavili pár drobností do firmy. Nebo Google Apps API které používáme v jako [SSO][sso] jak do interních nástrojů tak do Slacku.
-
-Ve volném čase se učím vyvíjet aplikace pro iOS ve [Swift][swift]u (Díky lidem z  [ackee][ackee] a [codecamp][codecamp]). A v budoucnu se chci určitě mobilnímu vývoji věnovat mnohem více.
+Během své kariery jsem se setkal nebo pomáhal v produkčním prostředí nasadit např. tyto technologie. Elastic Search včetně podpory pro český jazyk. RabbitMQ jak pro zpracování zpráv na pozadí tak pro předávání zpráv mezi systémy. Prometheus s Grafanou jako monitorovací nástroj velké platformy služeb. 
 
 ### Historie
 
@@ -65,21 +58,11 @@ V polovině roku 2013 se mi zdálo že je čas se posunout dál a kývnul jsem n
 
 Od konce roku 2013 se tedy v práci většinově věnuju PHP a [Nette Frameworku][nette]. Náplň je více méně podobná, jen ubylo soutěží a přibylo obsahových webů a microsites a přestal jsem kódovat šablony. Navíc se rozšířil toolset o Elastic Search server, RabbitMQ, a hromadu iterních toolů.
 
-Na začátku roku 2017 jsem opustil agenturní klienty a šel si vyzkoušet práci na velkém projektu do [rohlik.cz][rohlik].
+Na začátku roku 2017 jsem opustil agenturní klienty a šel si vyzkoušet práci na velkém projektu do [Rohlik.cz][rohlik] kde jsem nastoupil jako PHP backend Developer. Po půl roce jsem dostal na starost tým juniorních Java vývojářů a společně jsem se pustili do přepisu PHP monolitu do Javy. V první vlně jsme společně zvládli vytvořit API pro manipulaci s košíkem a dosáhli deseti násobného zrychlení.
 
 [nette]: http://nette.org
 [bf]: http://www.brandzfriendz.cz
-[rohlik]: https://rohlik.cz
+[rohlik]: https://www.ohlik.cz
 
-[sso]: https://en.wikipedia.org/wiki/Single_sign-on
-
-[geewa]: http://corporate.geewa.com/
-
-[ackee]: http://www.ackee.cz
-[codecamp]: http://www.codecamp.cz
-
-[react]: https://facebook.github.io/react/
-[angular]: https://angularjs.org/
-[redux]: http://redux.js.org/
-
-[swift]: https://developer.apple.com/swift/
+[geewa]: http://corporate.geewa.com
+[spring]: https://www.spring.io
