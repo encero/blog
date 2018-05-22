@@ -56,13 +56,13 @@ V roce 2011 jsem začínal jako junior Python developer v té době jsem k backe
 
 V polovině roku 2013 se mi zdálo že je čas se posunout dál a kývnul jsem na spolupráci se společností [Geewa][geewa]. Kam jsem nastoupil jako APS.NET vývojář. Tato spolupráce neměla kvůli stavu ve firmně dlouhého trvání a na konci roku jsem se vrátil ke spolupráci s BF. Kde se mezitím vyměnila technologie.
 
-Od konce roku 2013 se tedy v práci většinově věnuju PHP a [Nette Frameworku][nette]. Náplň je více méně podobná, jen ubylo soutěží a přibylo obsahových webů a microsites a přestal jsem kódovat šablony. Navíc se rozšířil toolset o Elastic Search server, RabbitMQ, a hromadu iterních toolů.
+Od konce roku 2013 se tedy v práci většinově věnuju PHP a [Nette Frameworku][nette]. Náplň je více méně podobná, jen ubylo soutěží a přibylo obsahových webů a microsites a přestal jsem kódovat šablony. Navíc se rozšířil toolset o Elastic Search server, RabbitMQ, a hromadu interních toolů.
 
 Na začátku roku 2017 jsem opustil agenturní klienty a šel si vyzkoušet práci na velkém projektu do [Rohlik.cz][rohlik] kde jsem nastoupil jako PHP backend Developer. Po půl roce jsem dostal na starost tým juniorních Java vývojářů a společně jsem se pustili do přepisu PHP monolitu do Javy. V první vlně jsme společně zvládli vytvořit API pro manipulaci s košíkem a dosáhli deseti násobného zrychlení.
 
 [nette]: http://nette.org
 [bf]: http://www.brandzfriendz.cz
-[rohlik]: https://www.ohlik.cz
+[rohlik]: https://www.rohlik.cz
 
 [geewa]: http://corporate.geewa.com
 [spring]: https://www.spring.io

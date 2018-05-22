@@ -11,12 +11,12 @@ Několik projektů na kterých jsem se jako vývojář podílel.
 
 ### 2016
 - [Adreporter](/public/reference/adreporter.png) Interní nástroj pro reportování facebook reklamy (live export lead ads to client CRM and Omniture)
-- [Mamerádi psy](https://mameradipsy.cz/klub/) Eshop s chovatelskými potřebami (implementace OAuth 2.0 serveru, API)
+-  Mamerádi psy Eshop s chovatelskými potřebami (implementace OAuth 2.0 serveru, API)
 - [Den dětské onkologie](/public/reference/denonkologie.png) Charitativní Facebook microsite pro nadaci HAIMA
 - [Ježkovo novoroční předsevzetí](/public/reference/jezek.png) Brand awareness microsite k novému roku
 - [Tesco valentýnská přání](/public/reference/tescovalentyn.png) Brand awareness microsite k valentýnu, s js editorem fotografii
 - [Májová Seznamka](https://seznamka.cinemacity.cz) Brand awareness aplikace ve formě seznamky, s realtime chatem pro Cinema City Czech
-- [Mame rádi psy soutěž](https://soutez.mameradipsy.cz) Akviziční fotosoutěž s OAuth 2.0 integrací do eshopu [mameradipsy.cz](https://mameradipsy.cz/klub)
+- Mame rádi psy soutěž Akviziční fotosoutěž s OAuth 2.0 integrací do eshopu mameradipsy.cz
 
 ### 2015
 
