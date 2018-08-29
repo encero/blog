@@ -15,44 +15,33 @@ hidetitle: Yes
  </small>
 </h1>
 <p class="lead">
-	Jsem webový vývojář s bohatými zkušenostmi z projektu Rohlik.cz a z agenturní práce na Facebookových microsites.
+	Jsem backendový lomeno webový vývojář s bohatými zkušenostmi z projektu Rohlik.cz a z agenturní práce na Facebookových microsites.
 </p>
 
-<p class="badges shuffle">
-	<span class="endorse">PHP 7.2</span>
-	<span class="endorse">Nette</span>
-	<span class="endorse">MySQL</span>
-	<span class="endorse">Elastic Search</span>
-	<span class="endorse">Spring Framework</span>
-	<span>iOS</span>
-	<span>Swift</span>
-	<span>JavaScript</span>
-	<span>node.js</span>
-	<span>React.js</span>
-	<span>Bash</span>
-	<span>Linux</span>
-	<span>Nginx</span>
-	<span>Redis</span>
-	<span>Kdyby/*</span>
-	<span>jQuery</span>
-	<span>Rabbit MQ</span>
-	<span>New Relic</span>
-	<span>Gulp</span>
-	<span>yarn</span>
-</p>
 
+### Kde se můžeme potkat
+
+V holešovické kolkovně na dobrém obědě, když mám zrovna pauzu v bouchání [Go][go] micro servis v [Mall Group][mall]. Příležitostně na takové plzničce v [Lokále Hamburg][lokal]. Nebo na backendově zaměřených meetupech po celé praze.
+
+Jste recruiter a chcete zaujmout? Zkuste mi poslat zašifrovanou zpávu emailem, moje veřejné klíče můžete najít na [Keybase.io][keybase]
 
 ### Kdo jsem
 
-PHP [Nette][nette] a Java [Spring][spring] vývojář a team leader, v současné době na projektu [Rohlik.cz][rohlik].
+Webový vývojář se zaměřením na backend, se zkušenostmi z PHP [Nette][nette], Java [Spring][spring] a [Go][go].
 
-Mám bohaté zkušenosti s vývojem malých až velkých projektů v PHP (viz [reference](/reference)). Tyto zkušenosti se snažím zůročit při přechodu na Javu a při mentorování kolegů v týmu.
+Mám bohaté zkušenosti s vývojem malých až velkých projektů v PHP (viz [reference](/reference)) s krátkou ale výživnou zastávkou ve světě korporátní Javy.
+V současné době objevuju krásy golangu a jeho využití v mirco servisové architektůře.
 
-Během své kariery jsem se setkal nebo pomáhal v produkčním prostředí nasadit např. tyto technologie. Elastic Search včetně podpory pro český jazyk. RabbitMQ jak pro zpracování zpráv na pozadí tak pro předávání zpráv mezi systémy. Prometheus s Grafanou jako monitorovací nástroj velké platformy služeb. 
+Během své kariery jsem se setkal nebo pomáhal v produkčním prostředí nasadit např. tyto technologie. Elastic Search včetně podpory pro český jazyk. RabbitMQ jak pro zpracování zpráv na pozadí tak pro předávání zpráv mezi systémy. Prometheus s Grafanou jako monitorovací nástroj velké platformy služeb.
+
+### Co umím 
+
+PHP, Go, JavaScript, Java, Spring 2.0, Elastic Search, RabbitMQ, MySQL a další
+
 
 ### Historie
 
-V roce 2011 jsem začínal jako junior Python developer v té době jsem k backedu dělal i kompletní frontend. V té době se jednalo výhradně o nějakou formu FB aplikací. Hlavně soutěže v canvasu a v záložkách. Vše za jediným cílem. Nahnat stránce co nejvíce fanoušků. Za první dva roky mi rukou prošlo přes stovku takových aplikací. 
+V roce 2011 jsem začínal jako junior Python developer v té době jsem k backedu dělal i kompletní frontend. V té době se jednalo výhradně o nějakou formu aplikací pro Facebook.com. Hlavně spotřebitelské soutěže. Vše za jediným cílem. Nahnat stránce co nejvíce fanoušků. Za první dva roky mi rukou prošlo přes stovku takových aplikací.
 
 V polovině roku 2013 se mi zdálo že je čas se posunout dál a kývnul jsem na spolupráci se společností [Geewa][geewa]. Kam jsem nastoupil jako APS.NET vývojář. Tato spolupráce neměla kvůli stavu ve firmně dlouhého trvání a na konci roku jsem se vrátil ke spolupráci s BF. Kde se mezitím vyměnila technologie.
 
@@ -60,9 +49,21 @@ Od konce roku 2013 se tedy v práci většinově věnuju PHP a [Nette Frameworku
 
 Na začátku roku 2017 jsem opustil agenturní klienty a šel si vyzkoušet práci na velkém projektu do [Rohlik.cz][rohlik] kde jsem nastoupil jako PHP backend Developer. Po půl roce jsem dostal na starost tým juniorních Java vývojářů a společně jsem se pustili do přepisu PHP monolitu do Javy. V první vlně jsme společně zvládli vytvořit API pro manipulaci s košíkem a dosáhli deseti násobného zrychlení.
 
-[nette]: http://nette.org
+V polovině roku 2018 jsem z důvodu dlouhodobé frustrace v [Rohlíku][rohlik] přestoupil na projekt [Feedo.cz][feedo]. Ve Feedu jsem se setkal s nejbizarnějšími legacy systémy za celou svou kariéru. Byla to skvělá zkušenost ukončená nabídkou která se neodmítá a přestupem do [Mall Group][mall] za větší výzvou a zajímavějšími projekty.
+
+
+
+
+[keybase]: https://keybase.io/encero
+
+[lokal]: http://lokal-hamburk.ambi.cz/cz/
+
 [bf]: http://www.brandzfriendz.cz
 [rohlik]: https://www.rohlik.cz
-
 [geewa]: http://corporate.geewa.com
+[feedo]: https://feedo.cz
+[mall]: http://mallgroup.cz/
+
+[nette]: http://nette.org
 [spring]: https://www.spring.io
+[go]: https://golang.org

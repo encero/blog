@@ -5,6 +5,10 @@ title: Reference
 
 Několik projektů na kterých jsem se jako vývojář podílel.
 
+### 2018
+- [Mall group](http://mallgroup.cz/) Uvidíme co to bude, ale bude to v Go
+- [Feedo](https://www.feedo.cz) PHP Symfony backend a backoffice systémy + par microservis v rámci modernizace infrastruktury
+
 ### 2017
 - [rohlik.cz](https://rohlik.cz) Java API pro frontend rohlíku
 - [rohlik.cz](https://rohlik.cz) PHP Nette backend v rohlíku

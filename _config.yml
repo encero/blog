@@ -1,15 +1,15 @@
 # Dependencies
 highlighter:      rouge
 
-lsi:              true
+# lsi:              true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Matoušův zápisník
-tagline:          'o všem možném'
-description:      'Zápisky o programování a o tom ostatním.'
+title:            Matouš Michalík
+tagline:          'co dělám a co umím'
+description:      ''
 url:              https://matousmichalik.com
 
 GA:               UA-34538626-1
@@ -33,6 +33,12 @@ paginate_path:    "/blog/:num/"
 plugins: [jekyll-paginate]
 
 include: ['.well-known']
+exclude:
+  - deploy.sh
+  - README.md
+  - LICENSE.md
+  - Gemfile
+  - Gemfile.lock
 
 # Custom vars
 
