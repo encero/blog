@@ -16,7 +16,7 @@ order: 5
 
 `devd`: sikovny vyvojovy server s live reloadem
 
-### DOKCER
+### DOCKER
 
 vyrobi zaznam v /etc/hosts ktery ukazuje na hostujici masinu
 {% highlight bash %}
