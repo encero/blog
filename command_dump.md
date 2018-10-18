@@ -16,6 +16,13 @@ order: 5
 
 `devd`: sikovny vyvojovy server s live reloadem
 
+### DOKCER
+
+vyrobi zaznam v /etc/hosts ktery ukazuje na hostujici masinu
+{% highlight bash %}
+echo -e "`/sbin/ip route|awk '/default/ { print $3 }'`\tdocker.host.internal" | tee -a /etc/hosts > /dev/null
+{% endhighlight%}
+
 ### OTHER
 
 gource to video ( na macu funguje gource instalované přes brew )
