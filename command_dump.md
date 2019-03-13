@@ -16,6 +16,8 @@ order: 5
 
 `devd`: sikovny vyvojovy server s live reloadem
 
+`sudo ifconfig lo0 alias 169.254.254.254`: alias pro loopback interface ( dostupny z docker containeru bezicich na danem hostu )
+
 ### DOCKER
 
 vyrobi zaznam v /etc/hosts ktery ukazuje na hostujici masinu
