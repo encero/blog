@@ -21,7 +21,7 @@ hidetitle: Yes
 
 ### Kde se můžeme potkat
 
-V holešovické kolkovně na dobrém obědě, když mám zrovna pauzu v bouchání [Go][go] slu6eb v [Mall Group][mall]. Příležitostně na tankové plzničce v [Lokále Hamburg][lokal]. Nebo na backendově zaměřených meetupech po celé praze.
+V holešovické kolkovně na dobrém obědě, když mám zrovna pauzu v bouchání [Go][go] služeb v [Mall Group][mall]. Příležitostně na tankové plzničce v [Lokále Hamburg][lokal]. Nebo na backendově zaměřených meetupech po celé praze.
 
 Jste recruiter a chcete zaujmout? Zkuste mi poslat zašifrovanou zpávu emailem, moje veřejné klíče můžete najít na [Keybase.io][keybase]
 
