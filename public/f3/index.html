@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week overlay</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"
+        integrity="sha512-+H4iLjY3JsKiF2V6N366in5IQHj2uEsGV7Pp/GRcm0fn76aPAk5V8xB6n8fQhhSonTqTXs/klFz4D0GIn6Br9g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Roboto Mono', monospace;
+            background-color: black;
+        }
+
+        div {
+            color: white;
+        }
+
+        .big {
+            font-size: 9vh;
+            /* line-height: 100%; */
+        }
+
+        .vertical {
+            text-orientation: mixed;
+            writing-mode: vertical-lr;
+            text-align: center;
+        }
+
+        #bar {
+            background-color: green;
+            width: 100px;
+            height: 100%;
+        }
+    </style>
+
+</head>
+
+<body class="h-full">
+    <div class="flex flex-row h-full">
+        <div class="vertical big">
+            Week progress
+        </div>
+        <div style="margin-left: -20px;">
+            <div id="bar" class="text-5xl flex flex-col">
+                <div class="text-center w-full mt-auto" id="value">100</div>
+                <div class="text-center w-full">%</div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function updateTheBar() {
+            let now = moment();
+            let mondayMorning = moment().day(1).hour(9);
+            let fridayAfterNoon = moment().day(5).hour(17).minute(0);
+
+            let totalHoursInOurWeek = fridayAfterNoon.diff(mondayMorning, "hours");
+            let remaining = fridayAfterNoon.diff(now, "hours");
+
+            let progress = 100 - (remaining / totalHoursInOurWeek * 100);
+            
+
+            let bar = document.getElementById("bar");
+            bar.style.height = Math.max(progress, 8).toFixed(2) + "%";
+
+            document.getElementById("value").textContent = progress.toFixed(0)
+        }
+
+        updateTheBar();
+        setInterval(updateTheBar, 1000);
+
+        setTimeout(() => {
+            //window.location.reload();
+        }, 1000)
+        
+    </script>
+</body>
+
+</html>
